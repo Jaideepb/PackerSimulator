@@ -1,0 +1,27 @@
+{
+    "0" : {
+        "id" : "Packer0",
+        "walkingSpeed" : 2,
+        "pickingSpeed" : 1
+    },
+    "1" : {
+        "id" : "Packer1",
+        "walkingSpeed" : 4,
+        "pickingSpeed" : 1
+    },
+    "2" : {
+        "id" : "Packer2",
+        "walkingSpeed" : 2,
+        "pickingSpeed" : 1
+    },
+    "3" : {
+        "id" : "Packer3",
+        "walkingSpeed" : 3,
+        "pickingSpeed" : 1
+    },
+    "4" : {
+        "id" : "Packer4",
+        "walkingSpeed" : 3,
+        "pickingSpeed" : 1
+    }
+}
